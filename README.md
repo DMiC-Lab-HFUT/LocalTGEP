@@ -23,7 +23,7 @@ make install
 ### 3.make
 
 ```sh
-cd ALP_C
+cd LocalTGEP
 mkdir release && cd release
 cmake ..
 make -j8
